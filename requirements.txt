@@ -1,4 +1,7 @@
-torch
+python-dotenv
+qdrant_client
 transformers 
 datasets 
 evaluate
+torch
+
