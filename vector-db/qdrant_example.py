@@ -9,11 +9,12 @@ client = QdrantClient(url=QDRANT_URL)
 
 
 if not client.collection_exists(QDRANT_COLLECTION):
+    print(f"Creating collection...")
     response = client.create_collection(
         collection_name=QDRANT_COLLECTION,
         vectors_config=VectorParams(size=4, distance=Distance.DOT),
     )
 
-    print(response)
+    print(f"The collection is created: {response}")
 else:
-    print(f"The collection: {QDRANT_COLLECTION} exists.")
+    print(f"The collection: '{QDRANT_COLLECTION}' exists.")
