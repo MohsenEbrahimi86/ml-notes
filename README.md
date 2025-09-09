@@ -11,3 +11,5 @@ Machine Learning notes for newbies
 [Knowledge Graph](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/vector-db/Knowledge-Graph.md)
 
 [LLM Frameworks](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/llm-frameworks/README.md)
+
+[Recommendation](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/recommendation/README.md)
