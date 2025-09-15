@@ -5,3 +5,5 @@
 [Overfitting](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/overfitting.md)
 
 [Transformer](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/architectures/transformer.md)
+
+[LLM Evalutation](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/architectures/LLM-evaluation.md)
