@@ -6,6 +6,6 @@
 
 [Transformer](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/architectures/transformer.md)
 
-[LLM Evalutation](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/LLM-evaluation.md)
+[LLM Evalutation](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/llm-evaluation.md)
 
 [LLM Memory](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/llm-memory.md)
