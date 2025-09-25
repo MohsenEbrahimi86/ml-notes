@@ -2,6 +2,8 @@
 
 [Learning Rate](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/learning-rate.md)
 
+[Activation Function](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/activation-function.md)
+
 [Overfitting](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/overfitting.md)
 
 [Transformer](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/architectures/transformer.md)
