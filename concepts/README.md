@@ -11,3 +11,5 @@
 [LLM Evalutation](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/llm-evaluation.md)
 
 [LLM Memory](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/llm-memory.md)
+
+[LoRA](https://github.com/MohsenEbrahimi86/ml-notes/blob/main/concepts/LoRA.md)
